@@ -61,7 +61,7 @@
 }
 
 .descrption {
-    font-size: 0.75rem;
+    font-size: .75rem;
     text-align: center;
     padding: 1rem;
 }
@@ -78,15 +78,15 @@
 }
 
 .skills {
-    font-size: 00.85rem;
+    font-size: 0.75rem;
     text-align: center;
     text-transform: uppercase;
-    padding: 1rem 0.5rem;
+    padding: 1rem .5rem;
 }
 
 .skill-name {
     font-size: 0.65rem;
-    font-weight: 0.65rem;
+    /* font-weight: 0.65rem; */
     text-align: left;
     padding-bottom: 0.5rem;
 }
